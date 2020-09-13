@@ -1,3 +1,5 @@
+# CREATE YOUR OWN DATABASE and add this table
+
 create table if not exists contact
 (
 	contact_id int auto_increment,
