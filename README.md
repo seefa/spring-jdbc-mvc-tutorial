@@ -13,3 +13,5 @@ This tutorial code used to explain Spring JDBC concepts:
 * using tag libs in JSP view pages to iterate/post and formatting Java objects to HTML contents and pass HTML input forms to Java Object.
 * using @InitBinder to convert String date input to java.util.Date format.
 * add CustomSqlErrorCode translator with Spring **SQLErrorCodeSQLExceptionTranslator** parent class.
+
+_TIP:_ Database DDL and DML SQL queries is added to **db_files** folder
