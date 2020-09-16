@@ -1,5 +1,7 @@
 # spring-mvc-jdbc-tutorial
 
+#### Spring Core features explained in [spring-core-tutorial](https://github.com/seefa/spring-core-tutorial) and Spring JDBC features mentioned in [spring-jdbc-tutorial](https://github.com/seefa/spring-jdbc-tutorial) codes in my repository
+
 This tutorial code used to explain Spring JDBC concepts:
 
 * add **spring-context** and **spring-jdbc** and **mysql-connector-java** plus **spring-webmvc** and dependencies
